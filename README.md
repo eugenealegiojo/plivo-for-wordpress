@@ -1,2 +1,2 @@
-# plivo-for-wordpress
+# Plivo for Wordpress
 Plivo features integration to WP
